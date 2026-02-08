@@ -14,4 +14,4 @@ jobs:
     steps:
       - name: Run Hello World Script
         run: |
-          echo "Hello, World! from DIM team"latest."
+          echo "Hello, World! from DIM team"
